@@ -1,0 +1,2 @@
+
+define PCA(m) = svd(m);
