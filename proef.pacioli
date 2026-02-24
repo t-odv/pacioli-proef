@@ -1,2 +1,3 @@
+doc "Copilot experiment block scene using skills from Pacioli tutorial."
 
-define PCA(m) = svd(m);
+# See https://pgriffel.github.io/pacioli/tutorials/graphics for the block scene tutorial.
